@@ -1,0 +1,105 @@
+body {
+    font-family: 'Poppins', sans-serif;
+  }
+ 
+  .container{
+    margin-bottom: 100px;
+  }
+  #brand-logo{
+    height: 59px;
+}
+.first-header{
+    background-color: #F0FFF0;
+}
+.button{
+    background-color: #21B573;
+    color: white;
+    border: none;
+    border-radius: 25px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+/* start banner section */
+.banner-items{
+    padding: 50px 30px;
+}
+.banner h1{
+    font-size: 50px;
+}
+.important-line{
+    color: #21B573;
+}
+.row img{
+    width: 100%;
+}
+.btn{
+    background-color: #21B573;;
+    color: white;
+    border: none;
+    border-radius: 25px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.banner{
+    background: #F0FFF0;
+}
+
+/* End banner section */
+/* Topic section */
+.topic img{
+    width: 70px;
+    height: 70px;
+    display: block;
+    margin: 30px auto;
+}
+.title{
+    text-align: center;
+}
+.text{
+    text-align: center;
+}
+.card-first:hover{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 2px 5px 20px lightgray
+}
+
+/* End Topic section */
+/* Start Course section */
+.course-gap{
+    padding-top: 50px;
+}
+.course p, h2{
+    color: #413960;;
+}
+.course h2{
+    font-size: 36px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 2px 5px 20px lightgray;
+}
+.card-text img{
+    text-align: left;
+    width: 25px;
+    height: 25px;
+}
+.gap{
+    padding-top: 30px;
+}
+
+/* End Course section */
+/* Start Testimonial section */
+.row{
+  padding-top: 70px;
+}
+/* End Testimonial section */
+
+/* footer */
+.footer{
+    padding: 50px 30px;
+    margin-top: 20px;
+    color: white;
+    background-color:#282531;;
+}

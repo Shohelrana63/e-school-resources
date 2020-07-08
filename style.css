@@ -1,14 +1,14 @@
 body {
     font-family: 'Poppins', sans-serif;
-  }
- 
-  .container{
+}
+ /* Start header section */
+.container{
     margin-bottom: 100px;
   }
   #brand-logo{
     height: 59px;
 }
-.first-header{
+.header{
     background-color: #F0FFF0;
 }
 .button{
@@ -19,6 +19,7 @@ body {
     padding: 9px 25px;
     cursor: pointer;
 }
+
 /* start banner section */
 .banner-items{
     padding: 50px 30px;
@@ -45,6 +46,7 @@ body {
 }
 
 /* End banner section */
+/* End Header section */
 /* Topic section */
 .topic img{
     width: 70px;
@@ -91,15 +93,20 @@ body {
 
 /* End Course section */
 /* Start Testimonial section */
+.testimonial h2{
+ color: black;
+}
 .row{
   padding-top: 70px;
 }
+
 /* End Testimonial section */
 
-/* footer */
+/* Start footer section*/
 .footer{
     padding: 50px 30px;
     margin-top: 20px;
     color: white;
     background-color:#282531;;
 }
+/* Start footer section*/
